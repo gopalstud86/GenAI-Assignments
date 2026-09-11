@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Dal Fry",
+    "ingredients": ["toor dal", "ghee", "tomato", "turmeric", "salt"],
+    "instructions": "Cook dal with turmeric and salt. Prepare tadka with ghee, cumin, tomato, and spices. Mix and simmer.",
+    "sourceUrl": "https://www.vegrecipesofindia.com/dal-fry-recipe/"
+  },
+  {
+    "title": "Paneer Butter Masala",
+    "ingredients": ["paneer", "butter", "tomato", "cream", "garam masala"],
+    "instructions": "Cook tomato gravy with butter and spices, add paneer cubes, finish with cream.",
+    "sourceUrl": "https://www.vegrecipesofindia.com/paneer-butter-masala/"
+  },
+  {
+    "title": "Chole (Chickpea Curry)",
+    "ingredients": ["kabuli chana", "onion", "tomato", "ginger", "garam masala"],
+    "instructions": "Soak chickpeas overnight, pressure cook, then simmer with onion-tomato masala and spices.",
+    "sourceUrl": "https://www.vegrecipesofindia.com/chole-bhature/"
+  },
+  {
+    "title": "Aloo Gobi",
+    "ingredients": ["potato", "cauliflower", "turmeric", "cumin", "ginger"],
+    "instructions": "Sauté potato and cauliflower with spices until tender, garnish with coriander.",
+    "sourceUrl": "https://www.vegrecipesofindia.com/aloo-gobi-recipe/"
+  },
+  {
+    "title": "Masoor Dal",
+    "ingredients": ["masoor dal", "onion", "tomato", "turmeric", "cumin"],
+    "instructions": "Cook red lentils with turmeric, prepare onion-tomato tadka, mix and simmer.",
+    "sourceUrl": "https://www.vegrecipesofindia.com/masoor-dal-recipe/"
+  },
+  {
+    "title": "Vegetable Pulao",
+    "ingredients": ["basmati rice", "mixed vegetables", "cumin", "cloves", "bay leaf"],
+    "instructions": "Cook rice with sautéed vegetables and whole spices, serve hot.",
+    "sourceUrl": "https://www.vegrecipesofindia.com/veg-pulao-recipe/"
+  },
+  {
+    "title": "Sambar",
+    "ingredients": ["toor dal", "tamarind", "sambar powder", "drumstick", "curry leaves"],
+    "instructions": "Cook dal, add tamarind extract and sambar powder, simmer with vegetables and curry leaves.",
+    "sourceUrl": "https://www.vegrecipesofindia.com/sambar-recipe/"
+  },
+  {
+    "title": "Rasam",
+    "ingredients": ["tamarind", "tomato", "rasam powder", "curry leaves", "mustard seeds"],
+    "instructions": "Prepare tamarind base, add rasam powder and tomato, temper with mustard seeds and curry leaves.",
+    "sourceUrl": "https://www.vegrecipesofindia.com/rasam-recipe/"
+  },
+  {
+    "title": "Baingan Bharta",
+    "ingredients": ["eggplant", "onion", "tomato", "ginger", "garam masala"],
+    "instructions": "Roast eggplant, mash, cook with onion-tomato masala and spices.",
+    "sourceUrl": "https://www.vegrecipesofindia.com/baingan-bharta-recipe/"
+  },
+  {
+    "title": "Idli",
+    "ingredients": ["idli rice", "urad dal", "fenugreek seeds", "salt"],
+    "instructions": "Soak rice and dal, grind to batter, ferment overnight, steam in idli molds.",
+    "sourceUrl": "https://www.vegrecipesofindia.com/idli-recipe-how-to-make-soft-idlis/"
+  }
+]
